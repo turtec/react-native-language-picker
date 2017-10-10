@@ -1,0 +1,26 @@
+{
+  "name": "react-native-language-picker",
+  "version": "0.0.1",
+  "description": "a Language picker for react-native projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/turtec/react-native-language-picker.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "language-picker",
+    "language-list",
+    "language-select"
+  ],
+  "author": "Sascha Turowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/turtec/react-native-language-picker/issues"
+  },
+  "homepage": "https://github.com/turtec/react-native-language-picker#readme"
+}
